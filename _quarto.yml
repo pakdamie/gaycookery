@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "Pak-Lienkaemper Cookery" 
@@ -15,7 +16,7 @@ website:
 format:
   html:
     theme:
-      - cosmo
+      - sketchy
       - brand
     css: styles.css
     toc: true
