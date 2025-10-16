@@ -10,6 +10,8 @@ website:
         text: Home
       - href: posts.qmd # add your listing page file to your navbar, just like you would any other new web page
         text: Recipes
+      - href: reviews.qmd # add your listing page file to your navbar, just like you would any other new web page
+        text: Reviews
       - href: about.qmd
         text: About
 
