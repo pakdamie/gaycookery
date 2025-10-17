@@ -1,6 +1,6 @@
 ---
 title: "Ploughman's Pasta"
-image: "posts/ploughman.png"
+image: "ploughman.png"
 ---
 
 Caitlin's take on Ploughman's Lunch. A pasta for the adventurous.
