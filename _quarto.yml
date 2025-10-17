@@ -1,25 +1,25 @@
-project:
-  type: website
-  output-dir: docs
+  project:
+    type: website
+    output-dir: docs
 
-website:
-  title: "Pak-Lienkaemper Cookery" 
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - href: posts.qmd # add your listing page file to your navbar, just like you would any other new web page
-        text: Recipes
-      - href: reviews.qmd # add your listing page file to your navbar, just like you would any other new web page
-        text: Reviews
-      - href: about.qmd
-        text: About
+  website:
+    title: "Pak-Lienkaemper Cookery" 
+    navbar:
+      left:
+        - href: index.qmd
+          text: Home
+        - href: posts.qmd # add your listing page file to your navbar, just like you would any other new web page
+          text: Recipes
+        - href: reviews.qmd # add your listing page file to your navbar, just like you would any other new web page
+          text: Reviews
+        - href: about.qmd
+          text: About
 
-format:
-  html:
-    theme:
-      - minty
-      - brand
-    css: styles.css
+  format:
+    html:
+      theme:
+        - minty
+        - brand
+      css: styles.css
 
 

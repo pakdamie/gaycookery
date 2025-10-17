@@ -1,3 +1,16 @@
 ---
-title: "stupid food"
+title: "Ploughman's Pasta"
+image: "posts/ploughman.png"
 ---
+
+Caitlin's take on Ploughman's Lunch. A pasta for the adventurous.
+
+1. Cook raisins in allspice and apple cider vinegar
+2. Soft boil some eggs
+3. Cook rotini pasta
+4. Add crumbled blue cheese and butter to the cooked pasta 
+5. Add one of the soft boiled eggs and let its yolk be part of the sauce
+6. Add the raisins
+7. Serve with soft boiled eggs and raw red onions
+
+The final dish should have the strong blue cheese taste that pairs with the sweetness of the raisins.
